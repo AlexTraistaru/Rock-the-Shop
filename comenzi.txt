@@ -1,0 +1,5 @@
+1 10.12.2023 7 150.0 Tricou1 Tricou2
+2 11.12.2023 6 200.0 Tricou3
+3 01.12.2023 4 100.0 CD1 CD2 Vinil1
+4 12.12.2024 5 150.0 Tricou4 Vinil2
+5 16.05.2014 3 250.0 Disc_vintage1 Disc_vintage2

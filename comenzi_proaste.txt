@@ -1,0 +1,3 @@
+1 12.02.2021 1 90.0 CD1
+2 12.05.2014 3 150.0 Tricou1 Tricou2 Tricou3 Tricou4 Tricou5
+3 14.06.2023 2 160.0 CD1 CD2 CD3 Vinil1 Vinil2 Disc_vintage1 Disc_vintage2
